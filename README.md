@@ -6,4 +6,4 @@
 └── index.html
 
 ### Another heading
-[My website] http://bcit.ca
+[My website] (http://bcit.ca)
